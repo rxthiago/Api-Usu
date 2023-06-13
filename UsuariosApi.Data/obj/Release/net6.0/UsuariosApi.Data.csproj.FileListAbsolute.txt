@@ -1,0 +1,14 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\bin\Release\net6.0\UsuariosApi.Data.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\bin\Release\net6.0\UsuariosApi.Data.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\bin\Release\net6.0\UsuariosApi.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\bin\Release\net6.0\UsuariosApi.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\obj\Release\net6.0\UsuariosApi.Data.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\obj\Release\net6.0\UsuariosApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\obj\Release\net6.0\UsuariosApi.Data.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\obj\Release\net6.0\UsuariosApi.Data.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\obj\Release\net6.0\UsuariosApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\obj\Release\net6.0\UsuariosApi.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\obj\Release\net6.0\refint\UsuariosApi.Data.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\obj\Release\net6.0\UsuariosApi.Data.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\obj\Release\net6.0\UsuariosApi.Data.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Data\obj\Release\net6.0\ref\UsuariosApi.Data.dll

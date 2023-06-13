@@ -1,0 +1,12 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\bin\Release\net6.0\UsuariosApi.Messages.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\bin\Release\net6.0\UsuariosApi.Messages.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\bin\Release\net6.0\UsuariosApi.Messages.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\obj\Release\net6.0\UsuariosApi.Messages.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\obj\Release\net6.0\UsuariosApi.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\obj\Release\net6.0\UsuariosApi.Messages.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\obj\Release\net6.0\UsuariosApi.Messages.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\obj\Release\net6.0\UsuariosApi.Messages.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\obj\Release\net6.0\UsuariosApi.Messages.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\obj\Release\net6.0\refint\UsuariosApi.Messages.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\obj\Release\net6.0\UsuariosApi.Messages.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2022 - C# WebDeveloper TQ Noite (29.09)\Aula 24 - 27.12.22\UsuariosApi\UsuariosApi.Messages\obj\Release\net6.0\ref\UsuariosApi.Messages.dll
